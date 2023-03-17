@@ -1,0 +1,17 @@
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\bin\Debug\MFRC-522.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\bin\Debug\MFRC-522.exe
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\bin\Debug\MFRC-522.pdb
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC-522.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.Properties.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC-522.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC-522.exe
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC-522.pdb
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.FrmMain.resources
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.FrmMessageBox.resources
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.UsrConLogin.resources
+c:\users\john\documents\visual studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.UsrConMain.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.FrmMaintenanceUser.resources
+C:\Users\John\Documents\Visual Studio 2013\Projects\MFRC-522\MFRC-522\obj\Debug\MFRC_522.FrmDatabaseSetting.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\bin\Debug\MFRC-522.exe.config
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\MFRC-522.exe
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\MFRC-522.pdb

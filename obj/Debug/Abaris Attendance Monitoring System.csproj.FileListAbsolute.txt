@@ -1,0 +1,101 @@
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\bin\Debug\Abaris Attendance Monitoring System.exe.config
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\bin\Debug\Abaris Attendance Monitoring System.exe
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\bin\Debug\Abaris Attendance Monitoring System.pdb
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris Attendance Monitoring System.csprojResolveAssemblyReference.cache
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.FrmDatabaseSetting.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMaintenanceUser.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMain.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMessageBox.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.Properties.Resources.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConEmployee.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConLogin.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConMain.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris Attendance Monitoring System.csproj.GenerateResource.Cache
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris Attendance Monitoring System.exe
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris Attendance Monitoring System.pdb
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAttendance.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAddAdmin.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAddEmployee.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\MFRC-522\bin\Debug\MySql.Data.dll
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe.config
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.exe
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.pdb
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.pdb
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\MySql.Data.dll
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csprojResolveAssemblyReference.cache
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmDatabaseSetting.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMaintenanceUser.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMain.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMessageBox.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.Properties.Resources.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAttendance.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConEmployee.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConLogin.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConMain.resources
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csproj.GenerateResource.Cache
+D:\Client\Shauntel\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmAdminConfirmation.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe.config
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.exe
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.pdb
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.pdb
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\MySql.Data.dll
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csprojResolveAssemblyReference.cache
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmAdminConfirmation.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmDatabaseSetting.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMaintenanceUser.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMain.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMessageBox.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.Properties.Resources.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAttendance.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConEmployee.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConLogin.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConMain.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csproj.GenerateResource.Cache
+D:\Core Integrate\C#.NET\Abaris Attendance Fingerrpint Sensor\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe.config
+D:\Core Integrate\C#.NET\Abaris Attendance Fingerrpint Sensor\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.exe
+D:\Core Integrate\C#.NET\Abaris Attendance Fingerrpint Sensor\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.pdb
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe.config
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.exe
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.pdb
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.pdb
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csprojResolveAssemblyReference.cache
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmAdminConfirmation.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmDatabaseSetting.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMaintenanceUser.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMain.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMessageBox.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.Properties.Resources.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAttendance.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConEmployee.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConLogin.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConMain.resources
+C:\Users\LEI\Desktop\Abaris Attendance Monitoring System (1)\Abaris Attendance Monitoring System\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csproj.GenerateResource.Cache
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe.config
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.exe
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.pdb
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csprojResolveAssemblyReference.cache
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmAdminConfirmation.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmDatabaseSetting.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMaintenanceUser.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMain.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.FrmMessageBox.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.Properties.Resources.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConAttendance.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConEmployee.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConLogin.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConMain.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris_Attendance_Monitoring_System.UsrConPDF.resources
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.csproj.GenerateResource.Cache
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.pdb
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\MySql.Data.dll
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\itextsharp.dll
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\itextsharp.pdfa.dll
+D:\Core Integrate\Client\Done - Lei Castaneda\Abaris Attendance Monitoring System\bin\Debug\itextsharp.xtra.dll
+D:\Core Integrate\On-Going\Fingerprint Arduino\Abaris Attendance Monitoring System\bin\Debug\Abaris Attendance Monitoring System.exe.config
+D:\Core Integrate\On-Going\Fingerprint Arduino\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.exe
+D:\Core Integrate\On-Going\Fingerprint Arduino\Abaris Attendance Monitoring System\obj\Debug\Abaris Attendance Monitoring System.pdb
+D:\Core Integrate\On-Going\Fingerprint Arduino\Abaris Attendance Monitoring System\bin\Debug\Attendance Monitoring System With Fingerprint.exe.config

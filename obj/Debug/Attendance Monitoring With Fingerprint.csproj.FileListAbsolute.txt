@@ -1,0 +1,79 @@
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Abaris Attendance Monitoring System\bin\Debug\Attendance Monitoring With Fingerprint.exe.config
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe.config
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.pdb
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\MySql.Data.dll
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmAdminConfirmation.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmDatabaseSetting.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMaintenanceUser.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMain.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMessageBox.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.Properties.Resources.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConAttendance.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConEmployee.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConLogin.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConMain.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConPDF.resources
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csproj.GenerateResource.Cache
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.exe
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.pdb
+D:\Core Integrate\On-Going\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csprojResolveAssemblyReference.cache
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe.config
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.pdb
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\MySql.Data.dll
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmAdminConfirmation.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmDatabaseSetting.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMaintenanceUser.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMain.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMessageBox.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.Properties.Resources.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConAttendance.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConEmployee.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConLogin.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConMain.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConPDF.resources
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csproj.GenerateResource.cache
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.exe
+C:\Users\avser\Desktop\Yeni klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.pdb
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe.config
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.pdb
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\MySql.Data.dll
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csprojAssemblyReference.cache
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmAdminConfirmation.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmDatabaseSetting.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMaintenanceUser.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMain.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMessageBox.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.Properties.Resources.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConAttendance.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConEmployee.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConLogin.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConMain.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConPDF.resources
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csproj.GenerateResource.cache
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csproj.CoreCompileInputs.cache
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csproj.CopyComplete
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.exe
+C:\Users\avser\Desktop\FINALE\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.pdb
+C:\Users\avser\Desktop\Yeni Klasör\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csprojResolveAssemblyReference.cache
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe.config
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.exe
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.pdb
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.exe
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\Attendance Monitoring With Fingerprint.pdb
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\bin\Debug\MySql.Data.dll
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csprojResolveAssemblyReference.cache
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmAdminConfirmation.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmDatabaseSetting.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMaintenanceUser.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMain.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.FrmMessageBox.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.Properties.Resources.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConAttendance.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConstudent.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConLogin.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConMain.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance_Monitoring_With_Fingerprint.UsrConPDF.resources
+C:\Users\avser\Desktop\Yeni KlasörFINAL\Attendance Monitoring With Fingerprint\Attendance Monitoring With Fingerprint\obj\Debug\Attendance Monitoring With Fingerprint.csproj.GenerateResource.Cache
